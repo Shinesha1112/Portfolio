@@ -142,7 +142,7 @@ body {
     width: 180px;
     height: 180px;
     border-radius:50%;
-    background-image: url('/files/img/profile.jpeg'); 
+    background-image: url('../img/profile.jpeg'); 
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
